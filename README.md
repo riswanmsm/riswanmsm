@@ -33,22 +33,22 @@ I am an engineering leader with **14+ years of professional experience** buildin
 
 ### 🚀 Highlighted Projects
 
-#### 🤖 [Architectos AI](projects.md#%F0%9F%A4%96-architectos-ai)
+#### 🤖 [Architectos AI](https://github.com/riswanmsm/architectos-ai)
 An asynchronous collaborative platform designed to orchestrate a team of specialized AI agents (Product Managers, Architects, and Engineers) to iteratively design and generate production-ready code and specifications.
 *   *Stack:* `Python`, `FastAPI`, `Model Context Protocol (MCP)`, `React.js`
 *   *Highlight:* Engineered autonomous LLM-to-LLM communication layers and developer workspace context mapping.
 
-#### 🛡️ [Rune Governance](projects.md#%F0%9F%9A%80-rune-governance-compliance-automation--monitoring-system)
+#### 🛡️ Rune Governance
 An automated enterprise compliance and regulation monitoring engine that replaces manual auditing schedules with automatic triggers.
 *   *Stack:* `Power Apps`, `Power Automate`, `SharePoint Online`
 *   *Highlight:* Architected multi-stage background logic and centralized metrics dashboards under a strict 6-week roadmap.
 
-#### 🎓 [Loop Learning App](projects.md#%F0%9F%9A%80-loop-learning-app)
+#### 🎓 Tutor Wizard Learning App
 A full-scale school management and student performance tracking application.
 *   *Stack:* `PHP (Laravel/CakePHP)`, `Node.js`, `Angular`, `Android Studio (Java)`, `AWS`, `Firebase`
 *   *Highlight:* Engineered and deployed both web interfaces and the native Android mobile application.
 
-#### 💬 [Adaptive Python Chatbot](projects.md#%F0%9F%9A%80-adaptive-educational-chatbot-for-python-programming)
+#### 💬 Adaptive Python Chatbot
 An intelligent tutoring chatbot designed to dynamically assess a user's programming level and tailor explanation pathways.
 *   *Stack:* `Python`, `Machine Learning`, `PyCEFR`, `Django`, `NLP`
 *   *Highlight:* Built dynamically tailored explanations based on real-time PyCEFR coding proficiency metrics.
