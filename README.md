@@ -9,6 +9,8 @@
 ### 🌟 About Me & Philosophy
 
 > *"Software engineering is no longer just about writing code. It is about designing robust systems, defining clear technical specifications, and guiding AI agents to build reliable, scalable, and maintainable software."*
+>
+> **My goal is not to compete with AI. My goal is to become the engineer who knows how to direct AI to build better software.**
 
 I am an engineering leader with **14+ years of professional experience** building and architecting applications. My focus is on delivering end-to-end cloud platforms, optimizing development efficiency, and designing autonomous multi-agent systems to accelerate product engineering.
 
